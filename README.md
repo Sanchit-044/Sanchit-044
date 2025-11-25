@@ -31,12 +31,16 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Sanchit-044&show_icons=true&theme=tokyonight&hide_border=true" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchit-044&layout=compact&theme=tokyonight&hide_border=true" /></td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Sanchit-044&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchit-044&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200" />
+      </td>
     </tr>
   </table>
 
-  <img src="https://streak-stats.demolab.com?user=Sanchit-044&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Sanchit-044&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
