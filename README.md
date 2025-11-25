@@ -4,7 +4,7 @@
 <!-- Typing SVG Intro -->
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=25&duration=4000&color=EF873E&center=true&vCenter=true&width=435&lines=Hey..+I'm+Monu+Chaudhary;Welcome+to+my+GitHub!;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=25&duration=4000&color=EF873E&center=true&vCenter=true&width=435&lines=Hey..+I'm+Sanchit+Bhardwaj;Welcome+to+my+GitHub!;" alt="Typing SVG" />
   </h1>
 </div>
 
